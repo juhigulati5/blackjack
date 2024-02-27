@@ -1,1 +1,1 @@
-# blackjack
+This code has the user play a simplified version of blackjack against the computer. It uses 4 functions: deal_card() - which randomly chooses a card from a list of a deck of cards, score() - which calculates the score of the computer and the user, compare() - which compares the scores of the user and computer and signals who won, and play_game() - which actually starts the game. The play_game() function is executed inside a while loop, which continues as long as the user inputs a 'y' answer.
